@@ -21,16 +21,11 @@ Com base nessas análises, também são propostas estratégias de retenção de 
 
   🗂 Estrutura do Projeto
 TelecomX_churn_prediction/
-
 │
-├─
-─ TelecomX_parte2_prevendo_churn.ipynb
+├── TelecomX_parte2_prevendo_churn.ipynb
 ├── README.md
-
 ├── dados/
-
 │   └── telecom_churn_dataset.csv
-
 │
 └── imagens/
 
