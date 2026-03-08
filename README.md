@@ -20,6 +20,8 @@ Com base nessas análises, também são propostas estratégias de retenção de 
 * Propor estratégias para reduzir a evasão de clientes.
 
   🗂 Estrutura do Projeto
+
+  
 TelecomX_churn_prediction/
 │
 ├── TelecomX_parte2_prevendo_churn.ipynb
