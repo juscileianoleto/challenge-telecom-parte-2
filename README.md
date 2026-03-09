@@ -146,6 +146,6 @@ https://www.linkedin.com/in/juscileia-noleto-b78730282/
 
 ## 👩‍💻 Autora
 
-Jusciléia Noleto -
+Jusciléia Noleto 🫶🏾 -
 
 Projeto desenvolvido como parte do Challenge de Data Science – Alura.
