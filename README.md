@@ -1,5 +1,5 @@
-TelecomX – Previsão de Evasão de Clientes (Churn)
-📊 Sobre o Projeto
+## TelecomX – Previsão de Evasão de Clientes (Churn)
+## 📊 Sobre o Projeto
 
 Este projeto tem como objetivo analisar os fatores que influenciam a evasão de clientes (churn) em uma empresa fictícia de telecomunicações chamada TelecomX.
 
@@ -7,7 +7,7 @@ A evasão de clientes representa um grande desafio para empresas de serviços, p
 
 Com base nessas análises, também são propostas estratégias de retenção de clientes.
 
-🎯 Objetivos
+## 🎯 Objetivos
 
 * Identificar os principais fatores que influenciam a evasão de clientes.
 
@@ -33,7 +33,7 @@ TelecomX_churn_prediction/
 ```
 
 
-🧹 Pré-processamento dos Dados
+## 🧹 Pré-processamento dos Dados
 Antes da construção dos modelos, foram realizadas etapas importantes de preparação dos dados:
 
 * Remoção de colunas irrelevantes como CustomerID, pois não contribuem para a previsão.
@@ -48,7 +48,7 @@ Antes da construção dos modelos, foram realizadas etapas importantes de prepar
 
 Essas etapas são fundamentais para melhorar o desempenho dos modelos preditivos.
 
-🤖 Modelos de Machine Learning Utilizados
+## 🤖 Modelos de Machine Learning Utilizados
 
 Para prever a evasão de clientes, foram utilizados diferentes algoritmos de machine learning:
 
@@ -72,7 +72,7 @@ Os modelos foram avaliados utilizando métricas como:
 
 Essas métricas permitem avaliar a capacidade do modelo de identificar corretamente os clientes que têm maior probabilidade de cancelar o serviço. 
 
-📈 Principais Fatores que Influenciam a Evasão
+## 📈 Principais Fatores que Influenciam a Evasão
 
 A análise dos dados indicou que alguns fatores têm forte relação com a evasão de clientes.
 
@@ -90,7 +90,7 @@ Entre os principais fatores identificados estão:
 
 Esses fatores ajudam a entender melhor o comportamento dos clientes.
 
-📊 Resultados
+## 📊 Resultados
 
 Após o treinamento dos modelos, foi possível comparar o desempenho entre eles.
 
@@ -98,7 +98,7 @@ Modelos baseados em árvores de decisão e Random Forest apresentaram melhor des
 
 A análise também permitiu identificar padrões importantes no comportamento dos clientes
 
-💡 Estratégias de Retenção de Clientes
+## 💡 Estratégias de Retenção de Clientes
 
 Com base nos resultados obtidos, algumas estratégias podem ser aplicadas para reduzir a evasão:
 
@@ -114,7 +114,7 @@ Com base nos resultados obtidos, algumas estratégias podem ser aplicadas para r
 
 Essas ações podem contribuir significativamente para a redução da perda de clientes.
 
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 * Python
 
@@ -130,7 +130,7 @@ Essas ações podem contribuir significativamente para a redução da perda de c
 
 * Google Colab / Jupyter Notebook
 
-📚 Conclusão
+## 📚 Conclusão
 
 A análise demonstrou que técnicas de Machine Learning podem ser utilizadas com sucesso para prever a evasão de clientes.
 
