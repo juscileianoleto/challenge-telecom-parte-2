@@ -137,3 +137,15 @@ A análise demonstrou que técnicas de Machine Learning podem ser utilizadas com
 A identificação dos fatores que mais influenciam o churn permite que empresas tomem decisões estratégicas para melhorar a retenção de clientes e aumentar a satisfação dos usuários.
 
 Esse tipo de abordagem baseada em dados é essencial para empresas que desejam se tornar data-driven.
+
+## 🔗 Acesso:
+Linkedin: 
+https://www.linkedin.com/in/juscileia-noleto-b78730282/
+
+
+
+## 👩‍💻 Autora
+
+Jusciléia Noleto -
+
+Projeto desenvolvido como parte do Challenge de Data Science – Alura.
